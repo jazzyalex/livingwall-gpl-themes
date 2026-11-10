@@ -1,0 +1,26 @@
+LivingWall Beach and Meadow themes
+
+These files are a modified version of the Deskland prototype themes:
+https://github.com/BLEZZ0102/Deskland/tree/9818b577402ff476e1b59da07970c56472713126/prototype
+
+Copyright (C) 2026 Deskland authors (original work).
+Modifications copyright (C) 2026 Alexander Malakhov.
+
+Licensed under the GNU General Public License, version 3. See LICENSE.
+
+Changes made for LivingWall: a WebKit message bridge so the macOS app can send
+desktop icon positions, support for macOS point coordinates, direct scene
+updates during an icon drag, Beach palms that keep their placement during a
+drag, and Animation and Shadows switches. Shared/sprite.js and
+Shared/playback.js are small LivingWall helpers that these themes load; they
+are released here under the same license.
+
+LivingWall is not affiliated with or endorsed by Deskland. The Deskland name,
+logo and icon are not licensed; see TRADEMARKS.md.
+
+Upstream notice, kept as received:
+
+  Copyright (C) 2026 Deskland authors.
+
+  Project source code and included theme assets are licensed under GNU GPL version 3.
+  Third-party dependencies retain their own licenses. See LICENSE, THIRD_PARTY_NOTICES.md and TRADEMARKS.md.
